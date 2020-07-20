@@ -1,2 +1,2 @@
-# OpenCV Computer-Vision--Day 1
+# OpenCV Computer-Vision
 Assignment Day1 of OpenCV workshop by GirlScript India Summit
